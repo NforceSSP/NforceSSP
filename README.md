@@ -1,11 +1,11 @@
-### Hello. I'm Nforce or Carson.
-- I'm learning game development, and I am currently in high school.
-
+## Hello. I'm Nforce or Carson.
+### I'm learning game development, and I am currently in high school.
+[comment]: <> (`&emsp;` can be used for big boy spaces, but rn idrc)
 <details>
   <summary>Languages that I am planning to learn, learning, or am familar with</summary>
-  - GLua (novice/intermediate)
-  - Nodejs (novice)
-  - CPP (novice/planning to learn)
+  - GLua (novice/intermediate)<br/>
+  - Nodejs (novice)<br/>
+  - C++ (novice/planning to learn)<br/>
   - C# (planning to learn)
 </details>
 
