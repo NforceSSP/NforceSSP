@@ -1,4 +1,4 @@
-## Hello. I'm Nforce or Carson.
+## Hello. I'm Nforce.
 ### I'm learning game development, and I am currently in high school.
 [comment]: <> (`&emsp;` can be used for big boy spaces, but rn idrc)
 <details>
