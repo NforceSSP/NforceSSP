@@ -1,6 +1,7 @@
 ## Hello. I'm Nforce.
 ### I'm learning game development, and I am currently in high school.
 [comment]: <> (`&emsp;` can be used for big boy spaces, but rn idrc)
+[comment]: <> (this c++ shit is difficult)
 <details>
   <summary>Languages that I am planning to learn, learning, or am familar with</summary>
   - GLua (intermediate)<br/>
@@ -8,7 +9,6 @@
   - C++ (beginner/planning to learn)<br/>
   - C# (planning to learn)
 </details>
-[comment]: <> (this c++ shit is difficult)
 
 <details>
   <summary>My GitHub Stats</summary>
