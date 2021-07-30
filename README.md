@@ -3,11 +3,12 @@
 [comment]: <> (`&emsp;` can be used for big boy spaces, but rn idrc)
 <details>
   <summary>Languages that I am planning to learn, learning, or am familar with</summary>
-  - GLua (novice/intermediate)<br/>
+  - GLua (intermediate)<br/>
   - Nodejs (novice)<br/>
-  - C++ (novice/planning to learn)<br/>
+  - C++ (beginner/planning to learn)<br/>
   - C# (planning to learn)
 </details>
+[comment]: <> (this c++ shit is difficult)
 
 <details>
   <summary>My GitHub Stats</summary>
